@@ -1,4 +1,4 @@
-package lets_get_certified.java_ooa.functional_interfaces;
+package java_ooa.functional_interfaces;
 
 @FunctionalInterface
 interface SampleFI{

@@ -1,4 +1,4 @@
-package lets_get_certified.controlling_program_flow;
+package controlling_program_flow;
 
 import java.util.ArrayList;
 import java.util.List;

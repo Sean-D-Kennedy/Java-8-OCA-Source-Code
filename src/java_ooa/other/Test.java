@@ -1,6 +1,6 @@
-package lets_get_certified.java_ooa.other;
+package java_ooa.other;
 
-import lets_get_certified.java_ooa.Person;
+import java_ooa.Person;
 
 class Test{
     public static void main(String[] args) {

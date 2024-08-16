@@ -1,4 +1,4 @@
-package lets_get_certified.java_ooa;
+package java_ooa;
 public final class Person {
     // instance fields are final and private - can only be assigned once 
     // (at construction time) – "blank finals"

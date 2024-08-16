@@ -1,4 +1,4 @@
-package lets_get_certified.java_ooa;
+package java_ooa;
 
 class Vehicle extends Object{// a Vehicle is-an Object 
     public String toString(){ return "Vehicle"; }

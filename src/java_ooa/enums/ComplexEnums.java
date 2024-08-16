@@ -1,4 +1,4 @@
-package lets_get_certified.java_ooa.enums;
+package java_ooa.enums;
 
 enum WorkDay{
     // values must be first

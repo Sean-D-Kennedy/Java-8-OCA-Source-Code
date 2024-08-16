@@ -1,4 +1,4 @@
-package lets_get_certified.java_basics;
+package java_basics;
 
 public class Scope {
     // class and instance variables go here

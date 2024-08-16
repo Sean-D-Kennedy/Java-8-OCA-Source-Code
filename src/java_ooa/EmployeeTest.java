@@ -1,4 +1,4 @@
-package lets_get_certified.java_ooa;
+package java_ooa;
 
 class Employee {
     private int empId;  // Composition - "HAS-A" relationship

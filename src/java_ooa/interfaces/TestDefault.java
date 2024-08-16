@@ -1,4 +1,4 @@
-package lets_get_certified.java_ooa.interfaces;
+package java_ooa.interfaces;
 
 public interface TestDefault {
     int m0(); // ok, regular abstract method

@@ -1,4 +1,4 @@
-package lets_get_certified.java_ooa.a;
+package java_ooa.a;
 
 public class Book {
     protected void read(){}

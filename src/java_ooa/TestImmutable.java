@@ -1,4 +1,4 @@
-package lets_get_certified.java_ooa;
+package java_ooa;
 
 import java.util.ArrayList;
 

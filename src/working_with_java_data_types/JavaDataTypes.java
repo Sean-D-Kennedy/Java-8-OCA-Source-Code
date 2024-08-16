@@ -1,4 +1,4 @@
-package lets_get_certified.working_with_java_data_types;
+package working_with_java_data_types;
 
 public class JavaDataTypes {
     public static void main(String[] args) {

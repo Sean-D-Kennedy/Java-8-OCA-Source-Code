@@ -1,4 +1,4 @@
-package lets_get_certified.java_ooa.exceptions;
+package java_ooa.exceptions;
 
 //class BullInFieldException extends Exception{ // checked
 //    BullInFieldException() {} // super(); inserted for us

@@ -1,4 +1,4 @@
-package lets_get_certified.java_ooa.object_lifecycle;
+package java_ooa.object_lifecycle;
 
 class Tag{}
 public class Cow {

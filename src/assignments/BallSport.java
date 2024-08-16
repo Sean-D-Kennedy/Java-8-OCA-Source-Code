@@ -1,4 +1,4 @@
-package lets_get_certified.assignments;
+package assignments;
 
 // marker interface
 public interface BallSport {

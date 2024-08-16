@@ -1,4 +1,4 @@
-package lets_get_certified.test;
+package test;
 
 import java.nio.file.Path;
 import java.nio.file.Paths;

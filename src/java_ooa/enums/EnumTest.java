@@ -1,4 +1,4 @@
-package lets_get_certified.java_ooa.enums;
+package java_ooa.enums;
 
 //enum Direction extends Object{ // compiler error
 enum Direction {

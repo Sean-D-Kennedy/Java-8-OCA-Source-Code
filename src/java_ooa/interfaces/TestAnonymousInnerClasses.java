@@ -1,4 +1,4 @@
-package lets_get_certified.java_ooa.interfaces;
+package java_ooa.interfaces;
 
 interface Restable{
     void rest();

@@ -1,4 +1,4 @@
-package lets_get_certified.methods_and_encapsulation;
+package methods_and_encapsulation;
 
 public class AccessModifiers {
     public static void main(String[] args) {

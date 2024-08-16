@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package lets_get_certified.java_ooa;
+package java_ooa;
 
 /**
  *

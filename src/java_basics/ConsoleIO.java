@@ -1,4 +1,4 @@
-package lets_get_certified.java_basics;
+package java_basics;
 
 import java.util.ArrayList;
 import java.util.List;

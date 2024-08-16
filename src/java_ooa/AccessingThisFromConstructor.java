@@ -1,4 +1,4 @@
-package lets_get_certified.java_ooa;
+package java_ooa;
 
 // Chetan Patil - Only static variables/methods can be accessed as part of this([args]), 
 //                I didnt understand this concept and there are no examples... requesting you upload more exaples..

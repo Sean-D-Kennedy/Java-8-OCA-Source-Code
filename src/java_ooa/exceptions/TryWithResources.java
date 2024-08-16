@@ -1,4 +1,4 @@
-package lets_get_certified.java_ooa.exceptions;
+package java_ooa.exceptions;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

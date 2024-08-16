@@ -1,4 +1,4 @@
-package lets_get_certified.lambdas;
+package lambdas;
 
 import java.time.LocalTime;
 import java.util.ArrayList;

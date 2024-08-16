@@ -1,4 +1,4 @@
-package lets_get_certified.java_ooa;
+package java_ooa;
 class A{
    static{ System.out.println("static A1"); }       // 1a. static block
    {  System.out.println("instance A1"); }          //    2a. instance block

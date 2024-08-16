@@ -1,4 +1,4 @@
-package lets_get_certified.selected_clases_from_java_API;
+package selected_clases_from_java_API;
 
 import java.util.ArrayList;
 

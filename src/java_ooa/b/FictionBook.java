@@ -1,6 +1,6 @@
-package lets_get_certified.java_ooa.b;
+package java_ooa.b;
 
-import lets_get_certified.java_ooa.a.Book;
+import java_ooa.a.Book;
 
 class FictionBook extends Book{
     public void doThings(){

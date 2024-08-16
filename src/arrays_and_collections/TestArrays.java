@@ -1,4 +1,4 @@
-package lets_get_certified.arrays_and_collections;
+package arrays_and_collections;
 
 class Book{
     private String theTitle;

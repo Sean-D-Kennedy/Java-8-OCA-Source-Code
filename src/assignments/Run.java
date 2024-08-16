@@ -1,4 +1,4 @@
-package lets_get_certified.assignments;
+package assignments;
 
 public abstract class Run implements Exercise{
     private double distanceKm;
